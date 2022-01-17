@@ -1,0 +1,47 @@
+[
+    {
+        "nombre":"Almacén de pizzas",
+        "direccion":"Av. Pres. Arturo Umberto Illia 3770",
+        "icono":"https://api.waitry.net/1/uploads/places/profile_pictures/wa_211_profilePic_4011.jpg",
+        "redesSociales":["https://www.facebook.com/AlmacendePizzas/","https://www.instagram.com/almacendepizzas/"],
+        "productos":["Pizza con jamon y queso","Pizza Napolitana","pizza cuatro estaciones","Pizza cuatro quesos"],
+        "fotos":["https://www.ilcapo.net/wp-content/uploads/2019/03/pizza-jamon-queso.jpg","https://t1.rg.ltmcdn.com/es/images/5/2/6/pizza_napolitana_32625_orig.jpg","https://i.blogs.es/2b355a/pizza-4-estaciones/1366_2000.jpg","https://imag.bonviveur.com/foto-portada-pizza-cuatro-quesos.jpg"],
+        "descripcion":"De herencia Italiana, de cerveza, pizza, fainá y mucho ruido; de familias y amigos encontrándose.",
+        "id":1,
+        "precio":["300$","400$","350$","400$"]
+        
+    },
+    {
+        "nombre":"Pizza Alla Pala",
+        "direccion":"Av. Entre Ríos 699",
+        "icono":"https://scontent.fepa9-1.fna.fbcdn.net/v/t31.18172-8/28618708_596717000667564_1180566560925098676_o.png?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=r1cuhzSM42sAX91BfWe&_nc_ht=scontent.fepa9-1.fna&oh=00_AT-gbSgC2ZNURslcMzM47DXjcP05pxKr0NFbTT0OU4DEEQ&oe=61FF8159",
+        "redesSociales":["https://www.facebook.com/PizzaAllaPalaARG/","https://www.instagram.com/pizzaallapala/"],
+        "productos":["Pizza calabresa","Pizza Fugazzeta","pizza margharita","Pizza con anana"],
+        "fotos":["https://www.recetas-argentinas.com/base/stock/Recipe/43-image/43-image_web.jpg","https://t2.rg.ltmcdn.com/es/images/7/0/2/img_pizza_fugazza_7207_600.jpg","https://placeralplato.com/files/2015/06/pizza-Margarita-640x480.jpg?width=1200&enable=upscale","https://margherita.com.ar/wp-content/uploads/2019/05/pespecialanana.jpg"],
+        "descripcion":"Pizza Alla Pala y su versión Dolce son la mejor opción que soluciona todas tus comidas de forma rica y accesible.",
+        "id":2,
+        "precio":["330$","200$","550$","500$"]
+    },
+    {
+        "nombre":"La buena pizza",
+        "direccion":"Agüero 2241, Recoleta",
+        "icono":"https://scontent.fepa9-1.fna.fbcdn.net/v/t1.6435-9/32105374_1650379381741896_5124355111836975104_n.png?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=SJf4hlbXzkAAX9ltMBE&_nc_ht=scontent.fepa9-1.fna&oh=00_AT-amFqG8LyiMkGRY_cFev2s34UDgQVftl1FS63ebALw_g&oe=61FFE2B1",
+        "redesSociales":["https://www.facebook.com/labuenapizzacharleys/","https://www.instagram.com/labuenapizzabsas/?hl=es-la"],
+        "productos":["Pizza muzarella","Pizza Española","pizza verdura","Pizza provolone"],
+        "fotos":["https://www.johaprato.com/files/styles/flexslider_full/public/pizza_de_mozzarella.jpg?itok=0X9_f7K8","https://www.laespanolaaceites.com/wp-content/uploads/2019/06/pizza-con-chorizo-y-verduras-1080x671.jpg","https://i.blogs.es/914fc5/pizza-verde-pesto-portada-directo-paladar-pakus/450_1000.jpg","https://t1.rg.ltmcdn.com/es/images/5/0/2/pizza_de_provolone_7205_orig.jpg"],
+        "descripcion":"100% artesanales y gourmet, sobre una receta tradicional donde pese al paso del tiempo no ha perdido el concepto de hecho a mano.",
+        "id":3,
+        "precio":["400$","400$","350$","300$"]
+    },
+    {
+        "nombre":"Rochino | Comida Casera Freezada",
+        "direccion":"Calle 123 321, San Isidro",
+        "icono":"https://scontent.fepa9-1.fna.fbcdn.net/v/t1.6435-9/104101996_3034622723293965_7860651591136008271_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=icr6enUqrJQAX94T60O&_nc_ht=scontent.fepa9-1.fna&oh=00_AT-4X6OhVdKJtCqLD38kQbYgwtZJPnD8b_bo5bSwjwaGmw&oe=61FE7ED8",
+        "redesSociales":["https://www.facebook.com/rochinopastas/","https://www.instagram.com/rochinopastas/"],
+        "productos":["Pizza muzarella","Pizza provolone","pizza fugazzeta","pizza de jamon y mozzarella"],
+        "fotos":["https://d3ugyf2ht6aenh.cloudfront.net/stores/001/403/951/products/pizza-muzza1-46f33fc30022a26e3f16048538244394-320-0.png","https://d3ugyf2ht6aenh.cloudfront.net/stores/001/403/951/products/pizza-provolone1-b15ff9bd263cdb492816048538811006-320-0.png","https://d3ugyf2ht6aenh.cloudfront.net/stores/001/403/951/products/pizza-fugazzeta1-e599dde7d93576a36f16048538406506-320-0.png","https://d3ugyf2ht6aenh.cloudfront.net/stores/001/403/951/products/pizza-muzza-y-jamon1-e0eda92010dd7e277f16048538587002-320-0.png"],
+        "descripcion":"Nuestro propósito es que disfrutes del sabor de lo casero y resuelvas tus comidas en pocos minutos.",
+        "id":4,
+        "precio":["300$","400$","350$","400$"]
+    }
+]
